@@ -62,7 +62,7 @@ node index.js
 
 4. 浏览器看效果，及整个过程
 
-![Node.js访问index.html](G:\project\fullstack\bolg\day1\Node.js访问index.html.gif)
+![Node.js访问index.html](Node.js访问index.html.gif)
 
 
 

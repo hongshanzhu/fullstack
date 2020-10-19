@@ -83,7 +83,7 @@ node index.js
 
 6. 浏览器看效果，及整个过程
 
-![Node.js利用express访问index.html](G:\project\fullstack\bolg\day2\Node.js利用express访问index.html.gif)
+![Node.js利用express访问index.html](Node.js利用express访问index.html.gif)
 
 
 

@@ -106,7 +106,7 @@ node index.js
 
 浏览器看效果及整个过程
 
-![Node.js利用Express 托管静态文件](G:\project\fullstack\bolg\day3\Node.js利用Express 托管静态文件.gif)
+![Node.js利用Express 托管静态文件](Node.js利用Express 托管静态文件.gif)
 
 
 

@@ -102,7 +102,7 @@ node index.js
 
 浏览器看效果及整个过程，*本次没有修改原始文件名*
 
-![Node.js利用Express实现上传单文件](G:\project\fullstack\bolg\day4\Node.js利用Express实现上传单文件.gif)
+![Node.js利用Express实现上传单文件](Node.js利用Express实现上传单文件.gif)
 
 
 
