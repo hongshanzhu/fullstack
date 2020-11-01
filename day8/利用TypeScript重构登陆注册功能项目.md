@@ -293,9 +293,12 @@ yarn add @types/mysql
 ### 运行
 
 ```shell
+export NODE_ENV=development
 yarn run dev
 ```
 
 ### 结果及演示
 
 浏览器看效果及整个过程。
+
+![利用TypeScript重构登陆注册功能项目](G:\project\fullstack\bolg\fullstack\day8\利用TypeScript重构登陆注册功能项目.gif)
